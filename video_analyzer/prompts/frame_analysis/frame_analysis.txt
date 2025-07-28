@@ -1,0 +1,16 @@
+Frame Description Instructions
+
+
+Your Tasks
+You are viewing Frame [X] of this video sequence. Your goal is to document what you observe in a way that contributes to a coherent narrative of the entire video.
+
+
+{prompt}
+
+Format Your Notes As:
+
+```
+Frame [X] 
+[describe the content of the image in detail, including objects, actions, and context]
+
+```
